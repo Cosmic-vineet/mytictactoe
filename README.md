@@ -16,8 +16,11 @@ User-friendly design ensures that players of all skill levels can enjoy the game
 
 # Technologies Used:
 HTML: Provides the structure and layout of the game interface.
+
 CSS: Styles the game elements for an attractive and intuitive user interface.
+
 JavaScript: Powers the game logic, enabling dynamic interactions and responsive gameplay.
+
 GitHub Pages: Hosts the live version of the game for easy access and sharing.
 
 # How to Play:
