@@ -32,6 +32,8 @@ Click on the grid squares to make your moves.
 
 Listen for sound effects on your turns and watch for the winning GIF upon victory!
 
+
+
 Ready to play? Let's embark on a journey of strategy and fun with Dynamic Tic Tac Toe!
 
 
