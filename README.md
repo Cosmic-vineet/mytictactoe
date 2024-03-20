@@ -1,13 +1,13 @@
 # mytictactoe
 Welcome to our dynamic Tic Tac Toe game built with HTML, CSS, and JavaScript! This interactive web application provides an engaging gaming experience with sound effects triggered on player turns and victory celebrations, including a delightful winning GIF animation.
 
-#Features:
+# Features:
 
-#Interactive Gameplay: Enjoy a classic game of Tic Tac Toe against a friend.
-#Dynamic Sound Effects: Immerse yourself in the gameplay experience with interactive sound effects that respond to player actions.
-#Victory Celebrations: Witness the excitement of victory as a celebratory GIF appears upon winning the game.
-#Responsive Design: Play anywhere, anytime, on any device. The game is designed to adapt seamlessly to various screen sizes and orientations.
-#Accessible Interface: User-friendly design ensures that players of all skill levels can enjoy the game with ease..
+# Interactive Gameplay: Enjoy a classic game of Tic Tac Toe against a friend.
+# Dynamic Sound Effects: Immerse yourself in the gameplay experience with interactive sound effects that respond to player actions.
+# Victory Celebrations: Witness the excitement of victory as a celebratory GIF appears upon winning the game.
+# Responsive Design: Play anywhere, anytime, on any device. The game is designed to adapt seamlessly to various screen sizes and orientations.
+# Accessible Interface: User-friendly design ensures that players of all skill levels can enjoy the game with ease..
 
 #Technologies Used:
 #HTML: Provides the structure and layout of the game interface.
