@@ -25,8 +25,11 @@ GitHub Pages: Hosts the live version of the game for easy access and sharing.
 
 # How to Play:
 Clone the repository to your local machine.
+
 Open index.html in your preferred web browser.
+
 Click on the grid squares to make your moves.
+
 Listen for sound effects on your turns and watch for the winning GIF upon victory!
 
 Ready to play? Let's embark on a journey of strategy and fun with Dynamic Tic Tac Toe!
